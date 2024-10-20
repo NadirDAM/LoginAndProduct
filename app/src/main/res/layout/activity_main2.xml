@@ -115,7 +115,7 @@
                 android:layout_gravity="center_vertical"
                 android:layout_marginLeft="16dp"
                 android:layout_weight="1.5"
-                android:backgroundTint="#525274"
+                android:backgroundTint="#4B4E54"
                 android:padding="10dp"
                 android:text="@string/a_adir"
                 android:textColor="#FFFFFF"
