@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="18dp"
             android:gravity="center"
-            android:text="Nombre del Producto"
+            android:text="@string/nombre_del_producto"
             android:textColor="#293469"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -44,7 +44,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="18dp"
             android:gravity="center"
-            android:text="$100.00"
+            android:text="@string/_100_00"
             android:textSize="25sp"
             android:textStyle="bold" />
 
@@ -54,7 +54,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="18dp"
             android:gravity="center"
-            android:text="Lorem ipsum dolor sit amet"
+            android:text="@string/lorem_ipsum_dolor_sit_amet"
             android:textColor="#000000"
             android:textColorLink="#000000"
             android:textStyle="bold" />
@@ -65,7 +65,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="50dp"
             android:gravity="center"
-            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet..."
+            android:text="@string/lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_phasellus_imperdiet"
             android:textColor="#4E4E4E"
             android:textSize="14sp" />
 
@@ -117,7 +117,7 @@
                 android:layout_weight="1.5"
                 android:backgroundTint="#525274"
                 android:padding="10dp"
-                android:text="Añadir"
+                android:text="@string/a_adir"
                 android:textColor="#FFFFFF"
                 app:cornerRadius="5dp" />
         </LinearLayout>
